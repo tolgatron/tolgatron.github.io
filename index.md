@@ -10,6 +10,7 @@ I'm a self taught Indie Game Developer from Mersin, Turkey. I've always been an 
 - I create AR/VR experiences for businesses around the world.
 - I'm always a message away [@tolgatr0n][twitter]
 - I sometimes write blog posts for newcomers @[Medium][medium] & [LinkedIn][linkedin] in Turkish
+  
   <details>
   <summary> 📕 Latest Blog Posts in Turkish</summary>
   
@@ -21,7 +22,7 @@ I'm a self taught Indie Game Developer from Mersin, Turkey. I've always been an 
     - ["Neden Oyun Yapıyorsun?"​](https://www.linkedin.com/pulse/neden-oyun-yap%C4%B1yorsun-tolga-co%C5%9Fkun/)
     <!--END_SECTION:activity-->
     ➡️ [more blog posts...][articles]
-</details>
+  </details>
 
 
 ### Connect with me:
